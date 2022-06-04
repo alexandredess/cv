@@ -6,7 +6,7 @@ import { AiOutlineMobile } from "react-icons/ai";
 function User() {
     return (
         <div>
-            <img  className='w-1/2 mt-5 mx-auto moi' src="./images/moi.png" alt="" />
+            
             <h1 className='mt-2 text-2xl font-bold'>Alexandre Dessoly</h1>
             <p className='mt-2 text-lg font-medium'>Développeur web Full Stack</p>
             <div className='user_info bg-white opacity-60 font-bold '>
